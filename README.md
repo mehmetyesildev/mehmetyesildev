@@ -55,7 +55,7 @@ Linux, SQL, Git, GitHub
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mehmetyesildev)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mehmet-yesil/)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/mehmetyesildev)
 
 ---
