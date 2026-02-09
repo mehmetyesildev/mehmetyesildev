@@ -17,11 +17,11 @@
 
 ### 🚀 About Me
 
-I am a **Computer Engineer** passionate about building scalable backend systems, autonomous robotics, and AI-driven solutions. With a strong foundation in **Software Engineering** and practical experience from **AkınRobotics**, I bridge the gap between complex algorithms and real-world applications.
+I am a **Computer Engineer** (Graduated Aug 2025) passionate about building scalable backend systems, autonomous robotics, and AI-driven solutions. With a strong foundation in **Software Engineering** and practical experience from **AkınRobotics**, I bridge the gap between complex algorithms and real-world applications.
 
 * 🔭 I’m currently working on **Advanced ASP.NET Core & Microservices**
 * 🤖 I’m developing **Autonomous Robot Simulations with ROS & Gazebo**
-* 🌱 I’m currently learning **Clean Architecture & Cloud Systems**
+* 🏗️ Recently built **SmartTax TR**, a Micro-SaaS solution for Shopify merchants.
 * 💼 Open to work as a **Backend Developer** or **Software Engineer**
 
 ---
@@ -30,37 +30,37 @@ I am a **Computer Engineer** passionate about building scalable backend systems,
 
 | **Backend & .NET** | **AI & Robotics** | **Tools & Platforms** |
 |:---:|:---:|:---:|
-| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-| ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=.net&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
-| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| ![.NET Core](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![xUnit](https://img.shields.io/badge/xUnit-512BD4?style=flat-square&logo=dotnet&logoColor=white) | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 1️⃣ [ASP.NET Core Learning Path](https://github.com/mehmetyesildev/ASP.NET-Core-Learning-Path)
+#### 1️⃣ [SmartTax TR - Shopify SaaS Solution](https://github.com/mehmetyesildev/SmartTax-Shopify-SaaS-Showcase)
+> *Micro-SaaS & Tax Compliance*
+* **Tech:** .NET 8, Azure Functions, Clean Architecture, React, xUnit
+* **Details:**  A production-grade Micro-SaaS that enables Turkish Shopify merchants to comply with VUK regulations by validating TCKN/VKN data at checkout and automating order tagging.
+
+#### 2️⃣ [ASP.NET Core Learning Path](https://github.com/mehmetyesildev/ASP.NET-Core-Learning-Path)
 > *Backend & Architecture*
-* **Tech:** .NET 8, MVC, EF Core, SQL, Bootstrap
-* **Details:** Comprehensive backend repository covering CRUD, N-Layer Architecture, Identity, and Database Management.
+* **Tech:** .NET 8, MVC, EF Core, Repository Pattern, N-Layer Architecture
+* **Details:** Comprehensive backend repository covering advanced CRUD operations and database management.
 
-#### 2️⃣ Autonomous Robot Simulation (ROS) `🚀 Coming Soon`
+#### 3️⃣ Autonomous Robot Simulation (ROS) `🚀 In Progress`
 > *Robotics & Artificial Intelligence*
-* **Tech:** ROS (Robot Operating System), Gazebo, C++, Python, Linux
+* **Tech:** ROS, Gazebo, C++, Python
 * **Details:** A factory simulation environment featuring obstacle avoidance, path planning, and autonomous navigation algorithms.
-
-#### 3️⃣ AI & Data Science Labs `🐍 Coming Soon`
-> *Machine Learning & Automation*
-* **Tech:** Python, Scikit-Learn, Pandas, n8n
-* **Details:** Projects including **Laptop Price Prediction Model** and **Telegram Task Automation Bots**.
 
 ---
 
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetyesildev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetyesildev&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetyesildev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetyesildev&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </div>
 
 ---
